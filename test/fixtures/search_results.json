@@ -1,0 +1,62 @@
+[
+  {
+    "id": 4077,
+    "title": "Grandia",
+    "playtime": {
+      "Main Story": 44.0,
+      "Main + Extra": 60.0,
+      "Completionist": 91.5,
+      "All Styles": 52.0
+    }
+  },
+  {
+    "id": 29670,
+    "title": "Grandia II: Anniversary Edition",
+    "playtime": {
+      "Main Story": 28.0,
+      "Main + Extra": 32.5,
+      "Completionist": 42.0,
+      "All Styles": 31.5
+    }
+  },
+  {
+    "id": 17104,
+    "title": "Grandia: Parallel Trippers",
+    "playtime": {
+      "Main Story": 0.0,
+      "Main + Extra": 18.0,
+      "Completionist": 0.0,
+      "All Styles": 18.0
+    }
+  },
+  {
+    "id": 4078,
+    "title": "Grandia II",
+    "playtime": {
+      "Main Story": 32.5,
+      "Main + Extra": 35.5,
+      "Completionist": 40.5,
+      "All Styles": 35.5
+    }
+  },
+  {
+    "id": 4080,
+    "title": "Grandia Xtreme",
+    "playtime": {
+      "Main Story": 42.5,
+      "Main + Extra": 45.0,
+      "Completionist": 80.0,
+      "All Styles": 50.5
+    }
+  },
+  {
+    "id": 4079,
+    "title": "Grandia III",
+    "playtime": {
+      "Main Story": 40.0,
+      "Main + Extra": 40.5,
+      "Completionist": 40.5,
+      "All Styles": 40.0
+    }
+  }
+]
